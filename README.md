@@ -1,6 +1,6 @@
 # How you should run this project 
 
-At first you should RAINIRMETAL.h running in your Arduino uno and GPS count running in your ESP 8266 . For connections related to this project you can check out this circuit diagram 
+At first you should RAINIRMETAL.h running in your Arduino uno and GPS count running in your ESP 8266 . For connections related to this project you can check out this circuit diagram .
 
 
 ![Smart-waste-segregator-circuit-diagram](https://github.com/manisra-maker/Smart_waste_segregator/assets/55314646/8f706a73-4149-41ac-9afc-81a75bb13ca4)
