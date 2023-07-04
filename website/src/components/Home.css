@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Gugi&display=swap');
+
+.home {
+  font-family: 'Gugi';
+  font-weight: 400;
+  height: 800px;
+}
+
+.home__header {
+  /* height: 100px; */
+  background-color: black;
+  color: white;
+  font-size: 39px;
+  padding: 35px 0px;
+  text-align: center;
+}
+
+.home__body {
+  background: linear-gradient(to bottom, #f50e0e, #a4a4a4);
+  padding: 35px;
+  height: 600px;
+  overflow: hidden;
+  overflow-y: hidden;
+  /* scroll-behavior: auto; */
+  /* /* backg *-top/ */
+}
+
+.home__bodyLogo {
+  margin: 15px 560px;
+  height: 320px;
+  width: 320px;
+  border: 5px solid #00ff94;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background: linear-gradient(to bottom, #9eff00, #d9d9d9);
+}
+
+.home__bodyOptions {
+  /* padding-top: 60px; */
+  /* padding-bottom: 22px; */
+  display: flex;
+  justify-content: space-around;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+
+button {
+  margin-top: -60px;
+  height: 80px;
+  width: 100px;
+  border-radius: 20px;
+  border: none;
+  background-color: red;
+  font-family: 'Gugi';
+  font-weight: bold;
+  cursor: pointer;
+  /* margin-left: 20px; */
+
+  /* margin-right: -220px; */
+  /* margin-left: -150px; */
+}
+
+.home__bodyShowLocations {
+  margin-left: 200px;
+}

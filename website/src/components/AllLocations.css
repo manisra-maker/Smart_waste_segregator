@@ -1,0 +1,71 @@
+.location {
+  font-family: 'Gugi';
+  font-weight: 400;
+}
+
+.location__header {
+  background-color: black;
+  color: white;
+  font-size: 39px;
+  padding: 35px 0px;
+  text-align: center;
+  /* height: 600px; */
+}
+
+.wastes {
+  margin-top: 60px;
+  text-align: center;
+}
+
+img {
+  width: 580px;
+  height: 250px;
+  margin-right: 20px;
+  border-radius: 35px;
+}
+
+.levels {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.wet_level {
+  border-radius: 15px;
+  background-color: lightgrey;
+  width: 300px;
+  height: 30px;
+}
+
+.dry_level {
+  border-radius: 15px;
+  background-color: lightgrey;
+  width: 300px;
+  height: 30px;
+}
+
+.dry_level_fill {
+  width: 300px;
+  height: 30px;
+  border-radius: 15px;
+}
+
+.waste_loc {
+  text-decoration: none;
+  color: black;
+  /* width: 100px; */
+}
+
+button {
+  margin-top: 90px;
+  margin-left: 670px;
+  /* width: 80px; */
+}
+
+button.disabled {
+  cursor: not-allowed;
+}
+
+.locations_page {
+  height: 800px;
+}

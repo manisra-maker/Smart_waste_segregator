@@ -1,0 +1,40 @@
+.locationsPage {
+  font-family: 'Gugi';
+}
+
+.locations {
+  background-color: black;
+  color: white;
+  font-size: 39px;
+  padding: 35px 0px;
+  padding-left: 10px;
+  margin-top: 0;
+  text-align: center;
+}
+
+.each_loc {
+  background-color: rgba(0, 0, 0, 0.918);
+  margin-top: -40px;
+  padding: 275px;
+  padding-top: 20px;
+  color: rgb(0, 179, 255);
+  height: 700px;
+}
+
+.loc1 {
+  text-align: center;
+  font-size: 28px;
+  cursor: pointer;
+}
+
+.loc2 {
+  text-align: center;
+  font-size: 28px;
+  cursor: pointer;
+}
+
+.loc3 {
+  text-align: center;
+  font-size: 28px;
+  cursor: pointer;
+}

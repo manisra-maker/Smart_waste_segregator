@@ -1,0 +1,17 @@
+.about {
+  width: 650px;
+  font-family: 'Gugi';
+  font-size: 30px;
+  line-height: 70px;
+  color: black;
+}
+
+span {
+  color: gray;
+}
+
+ul {
+  margin-top: -70px;
+  margin-left: 350px;
+  list-style-type: none;
+}
